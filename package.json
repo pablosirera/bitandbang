@@ -1,6 +1,6 @@
 {
   "name": "pablosirera",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A personal card for Pablo Sirera (@pablosirera)",
   "main": "/bin/card.js",
   "bin": {
@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/bnb/bitandbang/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
 }
