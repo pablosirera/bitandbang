@@ -23,7 +23,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.hex('#1f8ed5')('pablosirera'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.hex('#1f8ed5')('pablosirera'),
   web: chalk.hex('#1f8ed5')('https://pablosirera.github.io'),
-  instagram: chalk.gray('https://instagram.com') + chalk.hex('#1f8ed5')('@pablodeveloper'),
+  instagram: chalk.gray('https://instagram.com/') + chalk.hex('#1f8ed5')('pablodeveloper'),
   npx: chalk.gray('npx') + ' ' + chalk.white('pablosirera (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('👨🏼‍💻'),
   labelOpenSource: chalk.white.bold('Open Source:'),

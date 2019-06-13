@@ -1,6 +1,6 @@
 {
   "name": "pablosirera",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Pablo Sirera (@pablosirera)",
   "main": "/bin/card.js",
   "bin": {
